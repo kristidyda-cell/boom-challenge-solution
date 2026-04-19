@@ -16,7 +16,6 @@ The solution is built as a reproducible baseline for the two challenge tasks:
 
 For forward prediction, I used a tree-based ensemble regression approach that is well-suited for structured tabular data, nonlinear interactions, and multi-target prediction.  
 The workflow includes:
-
 - loading and validating the provided training and test files
 - fitting a multi-output regression model on the training set
 - generating predictions for the hidden test scenarios
