@@ -31,8 +31,6 @@ For inverse design, I used bounded search guided by the trained forward model to
 - `src/` - core scripts
 - `outputs/` - generated submission files
 - `README.md` - project overview and usage
-- `SUBMISSION_NOTES.md` - concise technical notes
-- `VIDEO_SCRIPT.md` - short explanation script for submission video
 
 ## Notes
 
