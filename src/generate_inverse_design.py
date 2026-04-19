@@ -68,6 +68,5 @@ def main():
     print(f"Saved inverse design file to {out}")
 
 
-
 if __name__ == "__main__":
     main()

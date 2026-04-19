@@ -29,6 +29,5 @@ def main():
     print(f"Saved model to {model_out}")
 
 
-
 if __name__ == "__main__":
     main()
